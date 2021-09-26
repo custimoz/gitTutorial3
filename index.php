@@ -10,4 +10,5 @@ get_header();
 get_footer();
 
 echo 'test';
+echo 'new 1';
 ?>
