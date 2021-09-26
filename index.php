@@ -9,6 +9,5 @@ get_header();
 
 get_footer();
 
-dvcxvfsvfsdvdf
-
+echo 'test';
 ?>
